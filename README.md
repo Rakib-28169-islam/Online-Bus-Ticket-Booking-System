@@ -75,7 +75,7 @@ Add, update, and manage bus details, schedules, and routes.
 
 
 
-# ![Open Xammp Like this](./screenshots/S1.png)
+# ![Open Xammp Like this](./screenshots/s1.png)
 
 
 # create a database named 'cse311project' on your phpMyAdmin
