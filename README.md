@@ -75,7 +75,7 @@ Add, update, and manage bus details, schedules, and routes.
 
 
 
-# ![Open Xammp Like this](./screenshots/S1.png)
+# ![Open Xammp Like this](./screenshots/s1.png)
 
 
 # create a database named 'cse311project' on your phpMyAdmin
@@ -88,7 +88,7 @@ Import The sql file on your XAMMP phpMyAdmin Server
 
 ## After Import database
 
-![phpMyAdmin Panel](./screenshots/S2.png)
+![phpMyAdmin Panel](./screenshots/s2.png)
 
 
 
@@ -130,3 +130,7 @@ http://localhost/Online-Bus-Ticket-Booking-System/userHome.php
 ![](./screenshots/finalTicket.png)
 ![](./screenshots/ticketOperation.png)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> dce9401e9c02f7da9be4b52f06250bbbf767664e
