@@ -114,7 +114,7 @@ http://localhost/Online-Bus-Ticket-Booking-System/userHome.php
 
 ## Review Of The Website
 
-![](./screenshots/userHome1.png)
+![](./screenshots/userHome1.PNG)
 ![](./screenshots/userHome2.png)
 ![](./screenshots/userHome3.png)
 ![](./screenshots/userHome4.png)
