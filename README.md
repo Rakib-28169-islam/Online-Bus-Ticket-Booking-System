@@ -114,23 +114,19 @@ http://localhost/Online-Bus-Ticket-Booking-System/userHome.php
 
 ## Review Of The Website
 
-![](./screenshots/userHome1.png)
-![](./screenshots/userHome2.png)
-![](./screenshots/userHome3.png)
-![](./screenshots/userHome4.png)
-![](./screenshots/login.png)
-![](./screenshots/signUp.png)
-![](./screenshots/search1.png)
-![](./screenshots/search1Result.png)
-![](./screenshots/search1ResultSeat.png)
-![](./screenshots/search2.png)
-![](./screenshots/search2Result.png)
-![](./screenshots/search2ResultSeat.png)
-![](./screenshots/selectSeat.png)
-![](./screenshots/finalTicket.png)
-![](./screenshots/ticketOperation.png)
+![](./screenshots/userHome1.PNG)
+![](./screenshots/userHome2.PNG)
+![](./screenshots/userHome3.PNG)
+![](./screenshots/userHome4.PNG)
+![](./screenshots/login.PNG)
+![](./screenshots/signUp.PNG)
+![](./screenshots/search1.PNG)
+![](./screenshots/search1Result.PNG)
+![](./screenshots/search1ResultSeat.PNG)
+![](./screenshots/search2.PNG)
+![](./screenshots/search2Result.PNG)
+![](./screenshots/search2ResultSeat.PNG)
+![](./screenshots/selectSeat.PNG)
+![](./screenshots/finalTicket.PNG)
+![](./screenshots/ticketOperation.PNG)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> dce9401e9c02f7da9be4b52f06250bbbf767664e
