@@ -1,7 +1,7 @@
 <?php
 session_start();
 include 'connection.php';
-// include 'dynamicTable.php';
+ include 'dynamicTable.php';
 if (isset($_SESSION['loggedIn']) && $_SESSION['loggedIn'] == true) {
 
     if (isset($_SESSION['user_id'])) {
