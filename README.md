@@ -88,7 +88,7 @@ Import The sql file on your XAMMP phpMyAdmin Server
 
 ## After Import database
 
-![phpMyAdmin Panel](./screenshots/S2.png)
+![phpMyAdmin Panel](./screenshots/s2.png)
 
 
 
